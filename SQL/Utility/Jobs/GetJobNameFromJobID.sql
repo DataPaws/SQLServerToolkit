@@ -1,0 +1,2 @@
+SELECT name, description, job_id FROM msdb..sysjobs
+WHERE CONVERT(BINARY(16), job_id) = 0x4949B85B94514F43B056DBE9EEF21475
