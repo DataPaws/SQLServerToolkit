@@ -4,7 +4,7 @@
 <a name="header1"></a>
 ![licence badge]
 
-Welcome to our **SQL Server Toolkit**, a repository of free scripts from [DataPaws Consulting](https://www.datapawsconsulting.com/) for SQL Server database Administrators.
+Welcome to the [DataPaws](https://www.datapawsconsulting.com/) **SQL Server Toolkit**, a collection of free utility scripts for accidental/intentional SQL Server Database Administrators.
 
 ---
 
